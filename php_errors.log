@@ -1,0 +1,1058 @@
+[17-May-2016 22:00:21 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/ubuntu/workspace/wp-content/plugins/menu_wrapper_widget/widget.php on line 25
+[17-May-2016 22:00:21 UTC] PHP Stack trace:
+[17-May-2016 22:00:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[17-May-2016 22:00:21 UTC] PHP   2. activate_plugin() /home/ubuntu/workspace/wp-admin/plugins.php:42
+[17-May-2016 22:00:22 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/ubuntu/workspace/wp-content/plugins/menu_wrapper_widget/widget.php on line 25
+[17-May-2016 22:00:22 UTC] PHP Stack trace:
+[17-May-2016 22:00:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[17-May-2016 22:00:22 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[17-May-2016 22:00:22 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/ubuntu/workspace/wp-content/plugins/menu_wrapper_widget/widget.php on line 25
+[17-May-2016 22:00:22 UTC] PHP Stack trace:
+[17-May-2016 22:00:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[17-May-2016 22:00:22 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[18-May-2016 00:40:34 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:40:34 UTC] PHP Stack trace:
+[18-May-2016 00:40:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[18-May-2016 00:40:34 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[18-May-2016 00:40:34 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:40:34 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:40:34 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:40:34 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:40:34 UTC] PHP   7. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:40:34 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:40:34 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:40:34 UTC] PHP  10. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:40:34 UTC] PHP  11. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:40:34 UTC] PHP  12. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:41:35 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:41:35 UTC] PHP Stack trace:
+[18-May-2016 00:41:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[18-May-2016 00:41:35 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[18-May-2016 00:41:35 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:41:35 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:41:35 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:41:35 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:41:35 UTC] PHP   7. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:41:35 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:41:35 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:41:35 UTC] PHP  10. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:41:35 UTC] PHP  11. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:41:35 UTC] PHP  12. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:41:43 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:41:43 UTC] PHP Stack trace:
+[18-May-2016 00:41:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:41:43 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:41:43 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:41:43 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:41:43 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:41:43 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:41:43 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:41:43 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:41:43 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:41:43 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:41:43 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:41:43 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:41:43 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:42:31 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:42:31 UTC] PHP Stack trace:
+[18-May-2016 00:42:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:42:31 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:42:31 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:42:31 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:42:31 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:42:31 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:42:31 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:42:31 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:42:31 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:42:31 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:42:31 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:42:31 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:42:31 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:43:58 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:43:58 UTC] PHP Stack trace:
+[18-May-2016 00:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:43:58 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:43:58 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:43:58 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:43:58 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:43:58 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:43:58 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:43:58 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:43:58 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:43:58 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:43:58 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:43:58 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:43:58 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:39 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:39 UTC] PHP Stack trace:
+[18-May-2016 00:44:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:39 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:39 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:39 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:39 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:39 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:39 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:39 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:39 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:39 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:39 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:39 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:39 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:40 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:40 UTC] PHP Stack trace:
+[18-May-2016 00:44:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:40 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:40 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:40 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:40 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:40 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:40 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:40 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:40 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:40 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:40 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:40 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:40 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:40 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:40 UTC] PHP Stack trace:
+[18-May-2016 00:44:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:40 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:40 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:40 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:40 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:40 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:40 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:40 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:40 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:40 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:40 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:40 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:40 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:41 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:41 UTC] PHP Stack trace:
+[18-May-2016 00:44:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:41 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:41 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:41 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:41 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:41 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:41 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:41 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:41 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:41 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:41 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:41 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:41 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:41 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:41 UTC] PHP Stack trace:
+[18-May-2016 00:44:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:41 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:41 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:41 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:41 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:41 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:41 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:41 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:41 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:41 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:41 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:41 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:41 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:42 UTC] PHP Stack trace:
+[18-May-2016 00:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:42 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:42 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:42 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:42 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:42 UTC] PHP Stack trace:
+[18-May-2016 00:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:42 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:42 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:42 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:42 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:42 UTC] PHP Stack trace:
+[18-May-2016 00:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:42 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:42 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:42 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:42 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:42 UTC] PHP Stack trace:
+[18-May-2016 00:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:42 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:42 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:42 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:42 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:42 UTC] PHP Stack trace:
+[18-May-2016 00:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:42 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:42 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:42 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:42 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:42 UTC] PHP Stack trace:
+[18-May-2016 00:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:42 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:42 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:42 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:42 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:42 UTC] PHP Stack trace:
+[18-May-2016 00:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:42 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:42 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:42 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:42 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:42 UTC] PHP Stack trace:
+[18-May-2016 00:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:42 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:42 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:42 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:42 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:42 UTC] PHP Stack trace:
+[18-May-2016 00:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:42 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:42 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:42 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:42 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:42 UTC] PHP Stack trace:
+[18-May-2016 00:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:42 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:42 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:42 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:42 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:42 UTC] PHP Stack trace:
+[18-May-2016 00:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:42 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:42 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:42 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:42 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:42 UTC] PHP Stack trace:
+[18-May-2016 00:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:42 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:42 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:42 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:42 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:42 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:42 UTC] PHP Stack trace:
+[18-May-2016 00:44:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:42 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:42 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:42 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:42 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:42 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:43 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:43 UTC] PHP Stack trace:
+[18-May-2016 00:44:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:43 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:43 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:43 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:43 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:43 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:43 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:43 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:43 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:43 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:43 UTC] PHP Stack trace:
+[18-May-2016 00:44:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:43 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:43 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:43 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:43 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:43 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:43 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:43 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:43 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:43 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:43 UTC] PHP Stack trace:
+[18-May-2016 00:44:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:43 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:43 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:43 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:43 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:43 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:43 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:43 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:43 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:43 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:43 UTC] PHP Stack trace:
+[18-May-2016 00:44:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:43 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:43 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:43 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:43 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:43 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:43 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:43 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:43 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:43 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:44 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:44 UTC] PHP Stack trace:
+[18-May-2016 00:44:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:44 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:44 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:44 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:44 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:44 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:44 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:44 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:44 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:44 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:44 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:44 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:44 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 00:44:44 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-includes/class-wp-widget-factory.php on line 57
+[18-May-2016 00:44:44 UTC] PHP Stack trace:
+[18-May-2016 00:44:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/widgets.php:0
+[18-May-2016 00:44:44 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/widgets.php:10
+[18-May-2016 00:44:44 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[18-May-2016 00:44:44 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 00:44:44 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 00:44:44 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 00:44:44 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:44 UTC] PHP   8. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:44 UTC] PHP   9. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 00:44:44 UTC] PHP  10. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:44 UTC] PHP  11. birches_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 00:44:44 UTC] PHP  12. register_widget() /home/ubuntu/workspace/wp-content/themes/birches/functions.php:40
+[18-May-2016 00:44:44 UTC] PHP  13. WP_Widget_Factory->register() /home/ubuntu/workspace/wp-includes/widgets.php:113
+[18-May-2016 02:59:40 UTC] PHP Fatal error:  Cannot redeclare class WR_Pb_Builtin_Shortcode in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/shortcodes/main.php on line 29
+[18-May-2016 02:59:40 UTC] PHP Stack trace:
+[18-May-2016 02:59:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[18-May-2016 02:59:40 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[18-May-2016 02:59:40 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[18-May-2016 02:59:40 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[18-May-2016 02:59:40 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:393
+[18-May-2016 02:59:40 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 02:59:40 UTC] PHP   7. wp_widgets_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 02:59:40 UTC] PHP   8. do_action() /home/ubuntu/workspace/wp-includes/widgets.php:1475
+[18-May-2016 02:59:40 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 02:59:40 UTC] PHP  10. WR_Pb_Init->init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 02:59:40 UTC] PHP  11. WR_Pb_Core->__construct() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/wr-pagebuilder.php:77
+[18-May-2016 02:59:40 UTC] PHP  12. WR_Pb_Core->register_element() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:44
+[18-May-2016 02:59:40 UTC] PHP  13. WR_Pb_Helper_Shortcode::wr_pb_shortcode_tags() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:470
+[18-May-2016 02:59:40 UTC] PHP  14. WR_Pb_Helper_Shortcode::reload_wr_shortcodes() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:126
+[18-May-2016 02:59:40 UTC] PHP  15. do_action() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:55
+[18-May-2016 02:59:40 UTC] PHP  16. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 02:59:40 UTC] PHP  17. wr_pb_builtin_sc_init() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 03:00:27 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:00:27 UTC] PHP Stack trace:
+[18-May-2016 03:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:00:27 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:00:27 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:00:27 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:00:27 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:00:27 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:00:27 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:00:27 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:00:27 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:00:27 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:00:27 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:00:27 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:00:27 UTC] PHP Stack trace:
+[18-May-2016 03:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:00:27 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:00:27 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:00:27 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:00:27 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:00:27 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:00:27 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:00:27 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:00:27 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:00:27 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:00:27 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:00:27 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:00:27 UTC] PHP Stack trace:
+[18-May-2016 03:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:00:27 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:00:27 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:00:27 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:00:27 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:00:27 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:00:27 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:00:27 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:00:27 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:00:27 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:00:27 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:00:27 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:00:27 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:00:27 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:01:07 UTC] PHP Stack trace:
+[18-May-2016 03:01:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:01:07 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:01:07 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:01:07 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:07 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:07 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:01:07 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:01:07 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:07 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:01:07 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:07 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:01:07 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:01:07 UTC] PHP Stack trace:
+[18-May-2016 03:01:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:01:07 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:01:07 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:01:07 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:07 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:07 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:01:07 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:01:07 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:07 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:01:07 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:07 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:01:07 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:01:07 UTC] PHP Stack trace:
+[18-May-2016 03:01:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:01:07 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:01:07 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:01:07 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:07 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:07 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:01:07 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:01:07 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:07 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:01:07 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:07 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:01:07 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:07 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:07 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:01:18 UTC] PHP Stack trace:
+[18-May-2016 03:01:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:01:18 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:01:18 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:01:18 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:18 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:18 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:01:18 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:01:18 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:18 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:01:18 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:18 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:01:18 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:01:18 UTC] PHP Stack trace:
+[18-May-2016 03:01:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:01:18 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:01:18 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:01:18 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:18 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:18 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:01:18 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:01:18 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:18 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:01:18 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:18 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:01:18 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:01:18 UTC] PHP Stack trace:
+[18-May-2016 03:01:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:01:18 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:01:18 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:01:18 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:18 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:18 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:01:18 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:01:18 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:18 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:01:18 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:18 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:01:18 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:18 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:18 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:01:51 UTC] PHP Stack trace:
+[18-May-2016 03:01:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:01:51 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:01:51 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:01:51 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:51 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:51 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:01:51 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:01:51 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:51 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:01:51 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:51 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:01:51 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:01:51 UTC] PHP Stack trace:
+[18-May-2016 03:01:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:01:51 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:01:51 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:01:51 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:51 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:51 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:01:51 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:01:51 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:51 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:01:51 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:51 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:01:51 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:01:51 UTC] PHP Stack trace:
+[18-May-2016 03:01:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:01:51 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:01:51 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:01:51 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:51 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:51 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:01:51 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:01:51 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:51 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:01:51 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:51 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:01:51 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:51 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:51 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:01:58 UTC] PHP Stack trace:
+[18-May-2016 03:01:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:01:58 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:01:58 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:01:58 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:58 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:58 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:01:58 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:01:58 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:58 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:01:58 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:58 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:01:58 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:01:58 UTC] PHP Stack trace:
+[18-May-2016 03:01:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:01:58 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:01:58 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:01:58 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:58 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:58 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:01:58 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:01:58 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:58 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:01:58 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:58 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:01:58 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:01:58 UTC] PHP Stack trace:
+[18-May-2016 03:01:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:01:58 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:01:58 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:01:58 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:58 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:01:58 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:01:58 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:01:58 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:58 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:01:58 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:01:58 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:01:58 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:01:58 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:01:58 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:21:55 UTC] PHP Stack trace:
+[18-May-2016 03:21:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:21:55 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:21:55 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:21:55 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:21:55 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:21:55 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:21:55 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:21:55 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:21:55 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:21:55 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:21:55 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:21:55 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:21:55 UTC] PHP Stack trace:
+[18-May-2016 03:21:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:21:55 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:21:55 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:21:55 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:21:55 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:21:55 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:21:55 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:21:55 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:21:55 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:21:55 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:21:55 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:21:55 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP Warning:  Illegal string offset 'widget_id' in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php on line 968
+[18-May-2016 03:21:55 UTC] PHP Stack trace:
+[18-May-2016 03:21:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 03:21:55 UTC] PHP   2. include() /home/ubuntu/workspace/wp-admin/post.php:173
+[18-May-2016 03:21:55 UTC] PHP   3. do_meta_boxes() /home/ubuntu/workspace/wp-admin/edit-form-advanced.php:717
+[18-May-2016 03:21:55 UTC] PHP   4. call_user_func:{/home/ubuntu/workspace/wp-admin/includes/template.php:1037}() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:21:55 UTC] PHP   5. WR_Pb_Core->page_builder_html() /home/ubuntu/workspace/wp-admin/includes/template.php:1037
+[18-May-2016 03:21:55 UTC] PHP   6. include() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:461
+[18-May-2016 03:21:55 UTC] PHP   7. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/templates/page-builder.php:159
+[18-May-2016 03:21:55 UTC] PHP   8. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP   9. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  10. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  11. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  12. WR_Row->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:21:55 UTC] PHP  13. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:287
+[18-May-2016 03:21:55 UTC] PHP  14. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  15. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  16. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  17. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  18. WR_Column->element_in_pgbldr() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:972
+[18-May-2016 03:21:55 UTC] PHP  19. WR_Pb_Helper_Shortcode::do_shortcode_admin() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:77
+[18-May-2016 03:21:55 UTC] PHP  20. preg_replace_callback() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  21. WR_Pb_Helper_Shortcode::do_shortcode_tag() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:910
+[18-May-2016 03:21:55 UTC] PHP  22. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 03:21:55 UTC] PHP  23. WR_Pb_Helper_Shortcode::shortcode_to_pagebuilder() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:923
+[18-May-2016 06:42:58 UTC] PHP Warning:  Missing argument 2 for WR_Pb_Shortcode_Element::element_wrapper(), called in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/shortcodes/skirtukas/skirtukas.php on line 82 and defined in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/element.php on line 353
+[18-May-2016 06:42:58 UTC] PHP Stack trace:
+[18-May-2016 06:42:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[18-May-2016 06:42:58 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:168
+[18-May-2016 06:42:58 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 06:42:58 UTC] PHP   4. WR_Pb_Gadget_Base::hook() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 06:42:58 UTC] PHP   5. WR_Pb_Gadget_Base::execute() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/gadget/base.php:48
+[18-May-2016 06:42:58 UTC] PHP   6. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/gadget/base.php:69}() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/gadget/base.php:69
+[18-May-2016 06:42:58 UTC] PHP   7. WR_Gadget_Edit_Element->form_action() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/gadget/base.php:69
+[18-May-2016 06:42:58 UTC] PHP   8. WR_Pb_Core->shortcode_iframe_preview() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/gadget/edit-element.php:42
+[18-May-2016 06:42:58 UTC] PHP   9. WR_Pb_Shortcode_Element->element_shortcode() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:679
+[18-May-2016 06:42:58 UTC] PHP  10. WR_Skirtukas->element_shortcode_full() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/element.php:342
+[18-May-2016 06:42:58 UTC] PHP  11. WR_Pb_Shortcode_Element->element_wrapper() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/shortcodes/skirtukas/skirtukas.php:82
+[18-May-2016 06:43:24 UTC] PHP Warning:  Missing argument 2 for WR_Pb_Shortcode_Element::element_wrapper(), called in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/shortcodes/skirtukas/skirtukas.php on line 82 and defined in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/element.php on line 353
+[18-May-2016 06:43:24 UTC] PHP Stack trace:
+[18-May-2016 06:43:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 06:43:24 UTC] PHP   2. edit_post() /home/ubuntu/workspace/wp-admin/post.php:193
+[18-May-2016 06:43:24 UTC] PHP   3. wp_update_post() /home/ubuntu/workspace/wp-admin/includes/post.php:369
+[18-May-2016 06:43:24 UTC] PHP   4. wp_insert_post() /home/ubuntu/workspace/wp-includes/post.php:3602
+[18-May-2016 06:43:24 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-includes/post.php:3340
+[18-May-2016 06:43:24 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 06:43:24 UTC] PHP   7. WR_Pb_Core->save_pagebuilder_content() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 06:43:24 UTC] PHP   8. WR_Pb_Helper_Shortcode::doshortcode_content() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:627
+[18-May-2016 06:43:24 UTC] PHP   9. do_shortcode() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:1066
+[18-May-2016 06:43:24 UTC] PHP  10. preg_replace_callback() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  11. do_shortcode_tag() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  12. call_user_func:{/home/ubuntu/workspace/wp-includes/shortcodes.php:326}() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  13. WR_Row->element_shortcode() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  14. WR_Pb_Helper_Shortcode::remove_autop() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:465
+[18-May-2016 06:43:24 UTC] PHP  15. do_shortcode() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:715
+[18-May-2016 06:43:24 UTC] PHP  16. preg_replace_callback() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  17. do_shortcode_tag() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  18. call_user_func:{/home/ubuntu/workspace/wp-includes/shortcodes.php:326}() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  19. WR_Column->element_shortcode() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  20. WR_Pb_Helper_Shortcode::remove_autop() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:128
+[18-May-2016 06:43:24 UTC] PHP  21. do_shortcode() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:715
+[18-May-2016 06:43:24 UTC] PHP  22. preg_replace_callback() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  23. do_shortcode_tag() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  24. call_user_func:{/home/ubuntu/workspace/wp-includes/shortcodes.php:326}() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  25. WR_Pb_Shortcode_Element->element_shortcode() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  26. WR_Skirtukas->element_shortcode_full() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/element.php:342
+[18-May-2016 06:43:24 UTC] PHP  27. WR_Pb_Shortcode_Element->element_wrapper() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/shortcodes/skirtukas/skirtukas.php:82
+[18-May-2016 06:43:24 UTC] PHP Warning:  Missing argument 2 for WR_Pb_Shortcode_Element::element_wrapper(), called in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/shortcodes/skirtukas/skirtukas.php on line 82 and defined in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/element.php on line 353
+[18-May-2016 06:43:24 UTC] PHP Stack trace:
+[18-May-2016 06:43:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 06:43:24 UTC] PHP   2. edit_post() /home/ubuntu/workspace/wp-admin/post.php:193
+[18-May-2016 06:43:24 UTC] PHP   3. wp_update_post() /home/ubuntu/workspace/wp-admin/includes/post.php:369
+[18-May-2016 06:43:24 UTC] PHP   4. wp_insert_post() /home/ubuntu/workspace/wp-includes/post.php:3602
+[18-May-2016 06:43:24 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-includes/post.php:3491
+[18-May-2016 06:43:24 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 06:43:24 UTC] PHP   7. WR_Pb_Core->save_pagebuilder_content() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 06:43:24 UTC] PHP   8. WR_Pb_Helper_Shortcode::doshortcode_content() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:627
+[18-May-2016 06:43:24 UTC] PHP   9. do_shortcode() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:1066
+[18-May-2016 06:43:24 UTC] PHP  10. preg_replace_callback() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  11. do_shortcode_tag() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  12. call_user_func:{/home/ubuntu/workspace/wp-includes/shortcodes.php:326}() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  13. WR_Row->element_shortcode() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  14. WR_Pb_Helper_Shortcode::remove_autop() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:465
+[18-May-2016 06:43:24 UTC] PHP  15. do_shortcode() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:715
+[18-May-2016 06:43:24 UTC] PHP  16. preg_replace_callback() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  17. do_shortcode_tag() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  18. call_user_func:{/home/ubuntu/workspace/wp-includes/shortcodes.php:326}() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  19. WR_Column->element_shortcode() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  20. WR_Pb_Helper_Shortcode::remove_autop() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:128
+[18-May-2016 06:43:24 UTC] PHP  21. do_shortcode() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:715
+[18-May-2016 06:43:24 UTC] PHP  22. preg_replace_callback() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  23. do_shortcode_tag() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  24. call_user_func:{/home/ubuntu/workspace/wp-includes/shortcodes.php:326}() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  25. WR_Pb_Shortcode_Element->element_shortcode() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  26. WR_Skirtukas->element_shortcode_full() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/element.php:342
+[18-May-2016 06:43:24 UTC] PHP  27. WR_Pb_Shortcode_Element->element_wrapper() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/shortcodes/skirtukas/skirtukas.php:82
+[18-May-2016 06:43:24 UTC] PHP Warning:  Missing argument 2 for WR_Pb_Shortcode_Element::element_wrapper(), called in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/shortcodes/skirtukas/skirtukas.php on line 82 and defined in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/element.php on line 353
+[18-May-2016 06:43:24 UTC] PHP Stack trace:
+[18-May-2016 06:43:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 06:43:24 UTC] PHP   2. edit_post() /home/ubuntu/workspace/wp-admin/post.php:193
+[18-May-2016 06:43:24 UTC] PHP   3. wp_update_post() /home/ubuntu/workspace/wp-admin/includes/post.php:369
+[18-May-2016 06:43:24 UTC] PHP   4. wp_insert_post() /home/ubuntu/workspace/wp-includes/post.php:3602
+[18-May-2016 06:43:24 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-includes/post.php:3503
+[18-May-2016 06:43:24 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 06:43:24 UTC] PHP   7. wp_save_post_revision() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 06:43:24 UTC] PHP   8. _wp_put_post_revision() /home/ubuntu/workspace/wp-includes/revision.php:186
+[18-May-2016 06:43:24 UTC] PHP   9. wp_insert_post() /home/ubuntu/workspace/wp-includes/revision.php:300
+[18-May-2016 06:43:24 UTC] PHP  10. do_action() /home/ubuntu/workspace/wp-includes/post.php:3529
+[18-May-2016 06:43:24 UTC] PHP  11. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 06:43:24 UTC] PHP  12. WR_Pb_Core->save_pagebuilder_content() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 06:43:24 UTC] PHP  13. WR_Pb_Helper_Shortcode::doshortcode_content() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:627
+[18-May-2016 06:43:24 UTC] PHP  14. do_shortcode() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:1066
+[18-May-2016 06:43:24 UTC] PHP  15. preg_replace_callback() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  16. do_shortcode_tag() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  17. call_user_func:{/home/ubuntu/workspace/wp-includes/shortcodes.php:326}() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  18. WR_Row->element_shortcode() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  19. WR_Pb_Helper_Shortcode::remove_autop() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:465
+[18-May-2016 06:43:24 UTC] PHP  20. do_shortcode() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:715
+[18-May-2016 06:43:24 UTC] PHP  21. preg_replace_callback() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  22. do_shortcode_tag() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  23. call_user_func:{/home/ubuntu/workspace/wp-includes/shortcodes.php:326}() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  24. WR_Column->element_shortcode() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  25. WR_Pb_Helper_Shortcode::remove_autop() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:128
+[18-May-2016 06:43:24 UTC] PHP  26. do_shortcode() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:715
+[18-May-2016 06:43:24 UTC] PHP  27. preg_replace_callback() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  28. do_shortcode_tag() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  29. call_user_func:{/home/ubuntu/workspace/wp-includes/shortcodes.php:326}() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  30. WR_Pb_Shortcode_Element->element_shortcode() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  31. WR_Skirtukas->element_shortcode_full() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/element.php:342
+[18-May-2016 06:43:24 UTC] PHP  32. WR_Pb_Shortcode_Element->element_wrapper() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/shortcodes/skirtukas/skirtukas.php:82
+[18-May-2016 06:43:24 UTC] PHP Warning:  Missing argument 2 for WR_Pb_Shortcode_Element::element_wrapper(), called in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/shortcodes/skirtukas/skirtukas.php on line 82 and defined in /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/element.php on line 353
+[18-May-2016 06:43:24 UTC] PHP Stack trace:
+[18-May-2016 06:43:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 06:43:24 UTC] PHP   2. edit_post() /home/ubuntu/workspace/wp-admin/post.php:193
+[18-May-2016 06:43:24 UTC] PHP   3. wp_update_post() /home/ubuntu/workspace/wp-admin/includes/post.php:369
+[18-May-2016 06:43:24 UTC] PHP   4. wp_insert_post() /home/ubuntu/workspace/wp-includes/post.php:3602
+[18-May-2016 06:43:24 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-includes/post.php:3529
+[18-May-2016 06:43:24 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 06:43:24 UTC] PHP   7. WR_Pb_Core->save_pagebuilder_content() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[18-May-2016 06:43:24 UTC] PHP   8. WR_Pb_Helper_Shortcode::doshortcode_content() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/core.php:627
+[18-May-2016 06:43:24 UTC] PHP   9. do_shortcode() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:1066
+[18-May-2016 06:43:24 UTC] PHP  10. preg_replace_callback() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  11. do_shortcode_tag() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  12. call_user_func:{/home/ubuntu/workspace/wp-includes/shortcodes.php:326}() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  13. WR_Row->element_shortcode() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  14. WR_Pb_Helper_Shortcode::remove_autop() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/row.php:465
+[18-May-2016 06:43:24 UTC] PHP  15. do_shortcode() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:715
+[18-May-2016 06:43:24 UTC] PHP  16. preg_replace_callback() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  17. do_shortcode_tag() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  18. call_user_func:{/home/ubuntu/workspace/wp-includes/shortcodes.php:326}() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  19. WR_Column->element_shortcode() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  20. WR_Pb_Helper_Shortcode::remove_autop() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/layout/column.php:128
+[18-May-2016 06:43:24 UTC] PHP  21. do_shortcode() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/helper/shortcode.php:715
+[18-May-2016 06:43:24 UTC] PHP  22. preg_replace_callback() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  23. do_shortcode_tag() /home/ubuntu/workspace/wp-includes/shortcodes.php:223
+[18-May-2016 06:43:24 UTC] PHP  24. call_user_func:{/home/ubuntu/workspace/wp-includes/shortcodes.php:326}() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  25. WR_Pb_Shortcode_Element->element_shortcode() /home/ubuntu/workspace/wp-includes/shortcodes.php:326
+[18-May-2016 06:43:24 UTC] PHP  26. WR_Skirtukas->element_shortcode_full() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/element.php:342
+[18-May-2016 06:43:24 UTC] PHP  27. WR_Pb_Shortcode_Element->element_wrapper() /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/shortcodes/skirtukas/skirtukas.php:82
+[18-May-2016 06:43:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/element.php:353) in /home/ubuntu/workspace/wp-admin/post.php on line 197
+[18-May-2016 06:43:24 UTC] PHP Stack trace:
+[18-May-2016 06:43:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 06:43:24 UTC] PHP   2. setcookie() /home/ubuntu/workspace/wp-admin/post.php:197
+[18-May-2016 06:43:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/wp-content/plugins/wr-pagebuilder/core/shortcode/element.php:353) in /home/ubuntu/workspace/wp-includes/pluggable.php on line 1171
+[18-May-2016 06:43:24 UTC] PHP Stack trace:
+[18-May-2016 06:43:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[18-May-2016 06:43:24 UTC] PHP   2. redirect_post() /home/ubuntu/workspace/wp-admin/post.php:200
+[18-May-2016 06:43:24 UTC] PHP   3. wp_redirect() /home/ubuntu/workspace/wp-admin/includes/post.php:1842
+[18-May-2016 06:43:24 UTC] PHP   4. header() /home/ubuntu/workspace/wp-includes/pluggable.php:1171
